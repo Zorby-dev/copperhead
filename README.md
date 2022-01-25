@@ -8,4 +8,4 @@ Prerequisites:
  - [Git](https://git-scm.com/)
  - [Rust](https://rust-lang.org)
 
-Open a terminal of your choice in the repo folder and run one of the following commands: `cargo run` / `cargo build`.
+Open a terminal of your choice in the repo folder and run either `cargo run` or `cargo build`.
